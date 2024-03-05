@@ -35,8 +35,8 @@
 <p><a href="https://www.buymeacoffee.com/kaeytee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaeytee"></a></p>
 
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kaeytee&show_icons=true&locale=en&layout=compact" alt="kaeytee" /></p>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true&locale=en" alt="kaeytee" /></p>
-
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kaeytee&show_icons=true&locale=en&layout=compact" alt="kaeytee" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaeytee&" alt="kaeytee" /></p>
