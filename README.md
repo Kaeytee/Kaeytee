@@ -1,4 +1,4 @@
-![Header](./github-header-.png)
+![Header]([./github-header-.png](https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif))
 <h1 align="center">Hi 👋, I'm Austin Bediako</h1>
 <h3 align="center">A passionate fullstack developer from Ghana</h3>
 
