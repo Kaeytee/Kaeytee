@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <br>
 <br>
-![Header](./github-header-image.png)
+![Header](./octocat-1717491924695.png)
 <h1 align="center">Hi 👋, I'm Austin Bediako</h1>
 <h3 align="center">A passionate and future fullstack developer from Ghana</h3>
 
