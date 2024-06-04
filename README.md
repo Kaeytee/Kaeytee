@@ -1,6 +1,6 @@
 ![Header](./github-header-.png)
 <h1 align="center">Hi 👋, I'm Austin Bediako</h1>
-<h3 align="center">A passionate fullstack developer from Ghana</h3>
+<h3 align="center">A passionate and future fullstack developer from Ghana</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaeytee" alt="kaeytee" /></a> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **TechVanta App**
 
-- 🌱 I’m currently learning **backend,php and python**
+- 🌱 I’m currently learning **backend,php,javascript,cpp and python**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **Any frontend web designing stuff**
 
 - 🤝 I’m looking for help with **Backend Stuff**
 
