@@ -3,12 +3,11 @@
 <br>
 
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Austin Bediako</h1>
-<h3 align="center">A passionate and future fullstack developer from Ghana</h3>
-
+<h1 align="center">Hi 👋, I'm Austin Tsibuah Bediako</h1>
+<h3 align="center">A passionate developer from Accra, Ghana</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaeytee" alt="kaeytee" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?rs=1&pid=ImgDetMain">
+
 <p align="left"> <a href="https://twitter.com/kaeytee_" target="blank"><img src="https://img.shields.io/twitter/follow/kaeytee_?logo=twitter&style=for-the-badge" alt="kaeytee_" /></a> </p>
 
 - 🔭 I’m currently working on **TechVanta App**
