@@ -40,6 +40,6 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true&locale=en" alt="kaeytee" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaeytee&background=45%2C62EBA1%2C4F70EB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaeytee&theme=transparent" alt="GitHub Streak" /></a>
 <p><img align="center"style="margin-left:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaeytee&show_icons=true&locale=en&layout=compact" alt="kaeytee" /></p>
 
