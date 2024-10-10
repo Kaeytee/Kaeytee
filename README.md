@@ -1,8 +1,5 @@
 ![Header](./octocat-1717491924695.png)
 <br>
-<br>
-
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Austin Tsibuah Bediako</h1>
 <h3 align="center">A passionate developer from Accra, Ghana</h3>
 
