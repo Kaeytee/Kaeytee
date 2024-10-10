@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Austin Tsibuah Bediako</h1>
 <h3 align="center">A passionate developer from Accra, Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaeytee" alt="kaeytee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaeytee" alt="kaeytee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kaeytee_" target="blank"><img src="https://img.shields.io/twitter/follow/kaeytee_?logo=twitter&style=for-the-badge" alt="kaeytee_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/kaeytee_" target="blank"><img src="https://img.shields.io/twitter/follow/kaeytee_?logo=twitter&style=for-the-badge" alt="kaeytee_" /></a> </p>
 
 - 🔭 I’m currently working on **TechVanta App**
 
@@ -35,8 +35,14 @@
 <p><a href="https://www.buymeacoffee.com/kaeytee"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaeytee"></a></p>
 <br>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaeytee&theme=dracula) 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true&locale=en" alt="kaeytee" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaeytee&theme=transparent" alt="GitHub Streak" /></a>
-<p><img align="center"style="margin-left:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaeytee&show_icons=true&locale=en&layout=compact" alt="kaeytee" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaeytee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaeytee)
+[![Austin's Stat](https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true)](https://github.com/kaeytee) 
+&nbsp;&nbsp;&nbsp;
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kaeytee)
+
 
