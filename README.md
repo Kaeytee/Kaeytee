@@ -1,7 +1,8 @@
 ![Header](./octocat-1717491924695.png)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Austin</h1> 
+<h3 align="center">I'm a Front-end Developer.</h3>
 <br>
-<h1 align="center">Hi 👋, I'm Austin Tsibuah Bediako</h1>
-<h3 align="center">A passionate developer from Accra, Ghana</h3>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaeytee" alt="kaeytee" /></a> </p>
 
