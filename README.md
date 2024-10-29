@@ -38,11 +38,11 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaeytee&theme=dracula) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeytee)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaeytee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?user=kaeytee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/kaeytee)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaeytee)
-[![Austin's Stat](https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true)](https://github.com/kaeytee) 
+[![Austin's Stat](https://github-readme-stats.vercel.app/api?user=kaeytee&show_icons=true)](https://github.com/kaeytee) 
 &nbsp;&nbsp;&nbsp;
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kaeytee)
 
