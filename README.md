@@ -1,5 +1,5 @@
 ![Header](./octocat-1717491924695.png)
-[![committers.top badge](https://user-badge.committers.top/ghana_private/Kaeytee.svg)](https://user-badge.committers.top/ghana_private/Kaeytee)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Austin</h1> 
@@ -39,7 +39,7 @@
 <p><a href="https://www.buymeacoffee.com/kaeytee"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaeytee"></a></p>
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=kaeytee&theme=dracula) 
+[![committers.top badge](https://user-badge.committers.top/ghana_private/Kaeytee.svg)](https://user-badge.committers.top/ghana_private/Kaeytee)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaeytee)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaeytee)
