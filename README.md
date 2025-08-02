@@ -1,5 +1,5 @@
 ![Header](./octocat-1717491924695.png)
-[![committers.top badge](https://user-badge.committers.top/ghana_private/kaeytee.svg)](https://user-badge.committers.top/ghana_private/kaeytee)
+[![committers.top badge](https://user-badge.committers.top/ghana_private/Kaeytee.svg)](https://user-badge.committers.top/ghana_private/Kaeytee)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Austin</h1> 
@@ -41,8 +41,8 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=kaeytee&theme=dracula) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeytee)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaeytee)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaeytee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeytee&layout=compact&langs_count=10&count-private=true)](https://github.com/kaeytee)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaeytee)
 [![Austin's Stat](https://github-readme-stats.vercel.app/api?username=kaeytee&show_icons=true)](https://github.com/kaeytee) 
