@@ -33,14 +33,14 @@ const austin = {
   mindset: "Build fast. Learn faster. Ship always.",
   vision: "Redefine communication with secure, decentralized platforms."
 };
-```
+
 ## 🚀 What I'm Up To
 
-- 🔭 🛠️ Building Blocktract: A decentralized cross-chain emailing platform leveraging Sui Blockchain for secure, private, and interoperable communication.
+- 🛠️ Building Blocktract: A decentralized cross-chain emailing platform leveraging Sui Blockchain for secure, private, and interoperable communication.
 
 - 🧩 Exploring: Move language, cross-chain protocols, and scalable smart contract architectures.
 
-- 🌱 I’m currently learning **backend,php,javascript,cpp and python**
+- 🌱 Learning & Exploring: Deepening expertise in Move language, cross-chain protocols, and scalable smart contract architectures.
 
 - 👯 Collaborating: Open to Web3 projects, especially in decentralized communication or infrastructure.
  
